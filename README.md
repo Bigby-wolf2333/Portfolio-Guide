@@ -5,10 +5,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [CI/CD](#CI/CD)
 - [SQL](#sql)
-- [Cloud Service](#Cloud Service)
-
+- [Cloud_Service](#Cloud_Service)
 # CI/CD
 
-# Cloud Service
+# Cloud_Service
 
 ***
