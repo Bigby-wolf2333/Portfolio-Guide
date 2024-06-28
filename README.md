@@ -3,12 +3,20 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [CI/CD](#CI/CD)
-- [SQL](#sql)
-- [Cloud_Service](#Cloud_Service)
-# CI/CD
--  [Kubernetes](https://github.com/Bigby-wolf2333/Kubernetes_Airflow): Deployed airflow on kubernetes to ingest data and processing them.
+- [Projects](#Projects)
+- [Tools](#Tools)
 
-# Cloud_Service
+# Projects
+
+| Project Link | Tools | Project Description | 
+|---|---|---|
+
+***
+
+# Tools
+
+| Project Link | Tools | Project Description | 
+|---|---|---|
+|  [Kubernetes](https://github.com/Bigby-wolf2333/Kubernetes_Airflow) | Kubernetes, Airflow | Deployed airflow on kubernetes to ingest data and processing them. |
 
 ***
