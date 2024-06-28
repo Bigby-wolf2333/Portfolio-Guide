@@ -1,6 +1,6 @@
 # 🗺 Junwei's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my path how I learn data engineering. 
+Welcome to my data portfolio! Here, I document a summary of my journey in learning data engineering. 
 
 ## 📚 Table of Contents
 - [Projects](#Projects)
