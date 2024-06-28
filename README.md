@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my path how I learn 
 
 | Link | Tools | Project Description | 
 |---|---|---|
-| 🧱 [AWS_Queue](https://github.com/Bigby-wolf2333/Data_Pipeline_AWS_Queue) | Python, AWS, Docker | Fetched data from AWS_Queue, mask sensitive data and load into Postgres |
+| 🧱 [AWS_Queue](https://github.com/Bigby-wolf2333/Data_Pipeline_AWS_Queue) | Python, AWS, Docker, Postgres | Fetched data from AWS_Queue, mask sensitive data and load into Postgres |
 ***
 
 # Tools
