@@ -3,14 +3,12 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#Data-Engineering)
+- [CI/CD](#CI/CD)
 - [SQL](#sql)
-- [Python](#python)
+- [Cloud Service](#Cloud Service)
 
-# Data Engineering
+# CI/CD
 
-# SQL
-
-# Python 
+# Cloud Service
 
 ***
