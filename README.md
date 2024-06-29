@@ -6,14 +6,14 @@ Welcome to my data portfolio! Here, I document a summary of my journey in learni
 - [Projects](#Projects)
 - [Tools](#Tools)
 
-# Projects
+# 🏠 Projects
 
 | Link | Tools | Project Description | 
 |---|---|---|
 | [AWS_Queue](https://github.com/Bigby-wolf2333/Data_Pipeline_AWS_Queue) | Python, AWS, Docker, Postgres | Fetched data from AWS_Queue, masked sensitive data and loaded into Postgres. |
 ***
 
-# Tools
+# 🔨 Tools
 
 | Link | Tools | Project Description | 
 |---|---|---|
