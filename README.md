@@ -15,5 +15,5 @@ Welcome to my data portfolio! Here, I document a summary of my journey in learni
 |---|---|---|
 | [Kubernetes](https://github.com/Bigby-wolf2333/Kubernetes_Airflow) | Kubernetes, Airflow | Deployed Airflow on kubernetes to ingest data and processing them. |
 | [Postgres](https://github.com/Bigby-wolf2333/Dog_Project) | Postgres, Python, Docker | Used python to ingest data into Postgres and interat Postgre via CLI and PgAdmin. |
-
+| [DBT](https://github.com/Bigby-wolf2333/DBT-demo) | Google Big Query, DBT | Used DBT to deploy data warehouse in BigQuery.|
 ***
